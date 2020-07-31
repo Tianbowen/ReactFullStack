@@ -1,0 +1,90 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "Html",
+      "date": "2019-05-30T17:30:31.098Z",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": "Js",
+      "date": "2019-05-30T18:39:34.091Z",
+      "important": true
+    },
+    {
+      "id": 3,
+      "content": "Css",
+      "date": "2019-05-30T17:30:31.098Z",
+      "important": false
+    },
+    {
+      "id": 4,
+      "content": "C#",
+      "date": "2020-07-27T02:38:32.822Z",
+      "important": false
+    },
+    {
+      "id": 5,
+      "content": "Java",
+      "date": "2020-07-27T02:39:25.109Z",
+      "important": false
+    },
+    {
+      "content": "Go",
+      "date": "2020-07-27T02:40:12.325Z",
+      "important": false,
+      "id": 6
+    },
+    {
+      "content": "C++",
+      "date": "2020-07-27T03:47:22.672Z",
+      "important": false,
+      "id": 7
+    }
+  ],
+  "phonebooks": [
+    {
+      "phone": "123459798",
+      "name": "Hael",
+      "id": 1
+    },
+    {
+      "phone": "987654321",
+      "name": "Bosu",
+      "id": 2
+    },
+    {
+      "phone": "432325468",
+      "name": "Carey",
+      "id": 3
+    },
+    {
+      "name": "12312313",
+      "phone": "123",
+      "id": 4
+    }
+  ],
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": 4
+    }
+  ]
+}
